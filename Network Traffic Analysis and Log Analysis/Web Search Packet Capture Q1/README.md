@@ -1,5 +1,5 @@
 <h1>Web Search Packet Capture Q1 (15)</h1>
-<hr>
+
 
 ```
 All of the questions in this section pertain to the attached packet capture file.
