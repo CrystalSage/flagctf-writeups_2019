@@ -15,4 +15,4 @@ We get a list of all the search queries.
 Following the TCP stream, it is realized that the queries were submitted from Host: "web.mit.edu"
 
 Thus the flag is :
-# web.mit.edu
+**_web.mit.edu_**
