@@ -3,7 +3,7 @@
 Writeups for the challenges that were solved in flagctf(2019)
 
 ## Sections 
-- [Programming and Algorithms](#programming)
+- [Programming and Algorithms](#Programming and Algorithms)
 - [Crypto](#crypto)
 - [Password Cracking](#cracking)
 - [Quantum Computing](#quantum)
