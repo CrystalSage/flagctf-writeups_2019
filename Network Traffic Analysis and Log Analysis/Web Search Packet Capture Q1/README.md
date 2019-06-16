@@ -1,11 +1,11 @@
 <h1>Web Search Packet Capture Q1 (15)</h1>
 <hr>
 
-<h1>Description</h1>
 ```
 Get me! Over here.
 ```
-<hr>
+
+
 
 Analyzing the pcap file with Wireshark and filtering for GET requests as:
   <p>http.request.method==GET</p>
