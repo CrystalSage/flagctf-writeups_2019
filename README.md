@@ -3,7 +3,7 @@
 Writeups for the challenges that were solved in flagctf(2019)
 
 ## Sections 
-- [Programming and Algorithms](#Programming and Algorithms)
+- [Programming and Algorithms](#programming)
 - [Crypto](#crypto)
 - [Password Cracking](#cracking)
 - [Quantum Computing](#quantum)
@@ -11,10 +11,3 @@ Writeups for the challenges that were solved in flagctf(2019)
 - [Web Exploitation](#web)
 - [Network Traffic Analysis and Log Analysis](#forensics)
 
-
-## Programming and Algorithms
-| Challenges  |Points   |Status   |
-| ------------ | ------------ | ------------ |
-| ME!  | 45  | Solved  |
-|  Fare Deal(Small) |50   | Unsolved  |
-| Fare Deal(Large)  | 75  |  Unsolved |
