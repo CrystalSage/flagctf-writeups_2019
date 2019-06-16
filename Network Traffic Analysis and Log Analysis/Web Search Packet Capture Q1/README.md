@@ -16,3 +16,7 @@ Following the TCP stream, it is realized that the queries were submitted from Ho
 
 Thus the flag is :
 **_web.mit.edu_**
+
+### Note:
+
+We export the filtered packets into a pcap file for next challenges. (Available in Q2 ; Name: Filtered.pcapng)
